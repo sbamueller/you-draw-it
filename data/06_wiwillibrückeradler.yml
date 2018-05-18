@@ -1,0 +1,15 @@
+heading: Radler auf der Wiwilli Brücke 2012 - 2016
+subheading: Wieviele Leute radeln über die Wiwilli Brücke?
+result: >
+        **Seit 2012 wird erfasst, weiviele Menschen die Wiwilli Brücke, das wichtigste Ost-West Nadelöhr für Radler in Freiburg nutzen.** Ich hätte gerne Daten etwa zum Modalsplit verwendet, aber da gibt es nur in großen Abständen Untersuchungen, so dass sich das nicht eignet.
+
+        [So groß sind die Unterschiede in NRW | **mehr**](http://www1.wdr.de/nachrichten/landespolitik/landtagswahl/wss-arbeitsmarkt-100.html)
+
+data:
+  2012: 1.810.744
+  2013: 2.447.500
+  2014: 2.856.954
+  2015: 3.249.910
+  2016: 3.317.059
+accessibility: https://fritz.freiburg.de/asw/asw.exe?aw=Verkehr%5CJB_VERKEHR_FAHRRADVERKEHR
+unit: '1'
