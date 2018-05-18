@@ -17,9 +17,13 @@ Ein Dank an Adam Pearce, Graphics Editor bei der New York Times, der den Code zu
 Ebenso ein Dank an Mike Bostock:
 [D3.js - Data Driven Documents](https://d3js.org/)
 
-[Impressum](http://www1.wdr.de/impressum/index.html)
+[Urprüngliches Impressum](http://www1.wdr.de/impressum/index.html)
+
+Impressum Sebastian Müller: https://sbamueller.wordpress.com/kontakt-contact/
 
 Ich habe die Daten für Freiburg eingefügt und andere Hintergrundbilder verwendet. Nico Tribukait hat dankbarerweise sein Webspace zur Verfügung gestellt und Andre Eberle das ganze installiert.
+
+Das Projekt des WDR ist hier zu finden: https://github.com/wdr-data/you-draw-it und die Umsetzung: https://data.wdr.de/wdr/nachrichten/landespolitik/landtagswahl/was-schaetzen-sie/
 
 ## Rechtliches & Lizenzen
 
