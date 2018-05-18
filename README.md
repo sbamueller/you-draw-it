@@ -1,7 +1,7 @@
-# Was schätzen Sie: Wie hat sich NRW unter Hannelore Kraft verändert?
+# Was schätzen Sie: Wie hat sich Freiburg während der Amtszeit von Dieter Salomon verändert?
 
 ## Über das Projekt:
-Am 14. Mai wird in Nordrhein-Westfalen gewählt. Wie hat sich das Bundesland in den fünf Regierungsjahren von Ministerpräsidentin Hannelore Kraft (SPD) verändert?
+Dieter Salomon wurde als Oberbürgermeister von Freiburg abgewählt. Einmal Grund zum Ende seiner Amtszeit in ein paar Statistiken zu schauen um zu sehen wie sich Freiburg verändert hat.?
 
 Die Nutzer werden gebeten, die Linie zu Ende zu zeichnen. Ein Klick auf den Button unter der Grafik verrät, ob der Nutzer richtig lag.
 
@@ -9,10 +9,7 @@ Verlinkt sind alle zu Grunde liegenden Daten auch als barrierefreie Tabelle erre
 
 ## Credits
 
-Von Patricia Ennenbach und Peter Schneider
-Umsetzung: Marcus Weiner, Patricia Ennenbach
-Redaktion: Rainer Kellers
-Design: Mirko Schweikert
+Dieses Projekt beruht auf einer Vorlage des WDR von Von Patricia Ennenbach und Peter Schneider, Umsetzung: Marcus Weiner, Patricia Ennenbach, Redaktion: Rainer Kellers und immer noch weitgehend auf dem Design von Mirko Schweikert.
 
 "Was schätzen sie" beruht auf einer Vorlage der New York Times: [You Draw It: What Got Better or Worse During Obama’s Presidency](https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html?_r=0)
 Ein Dank an Adam Pearce, Graphics Editor bei der New York Times, der den Code zugänglich gemacht hat und uns das Recht eingeräumt hat, ihn zu nutzen:
@@ -22,16 +19,18 @@ Ebenso ein Dank an Mike Bostock:
 
 [Impressum](http://www1.wdr.de/impressum/index.html)
 
+Ich habe die Daten für Freiburg eingefügt und andere Hintergrundbilder verwendet. Nico Tribukait hat dankbarerweise sein Webspace zur Verfügung gestellt und Andre Eberle das ganze installiert.
+
 ## Rechtliches & Lizenzen
 
 ### Lizenz
 
 Javascript, HTML & CSS sind unter der [MIT License](/LICENSE) frei nutzbar und weiterverbreitbar.
-Für Grafiken wird **kein Nutzungsrecht** eingeräumt.
+Für Grafiken wird **kein Nutzungsrecht** eingeräumt. Deshalb habe ich sie durch eigene Grafiken getaucht. 
 
 ### Urheberrecht
 
-Copyright Westdeutscher Rundfunk Köln
+Sebastian Müller 2018
 
 ## Eingesetzte Technologie
 - JavaScript (VanillaJS & ES6)
