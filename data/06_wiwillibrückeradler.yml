@@ -6,10 +6,9 @@ result: >
         [(Rad)Verkehr in Freiburg | **mehr**](https://www.freiburg.de/pb/,Lde/231648.html)
 
 data:
-  2012: 1.810.744
-  2013: 2.447.500
-  2014: 2.856.954
-  2015: 3.249.910
-  2016: 3.317.059
+  2012: 1810744
+  2013: 2447500
+  2014: 2856954
+  2015: 3249910
+  2016: 3317059
 accessibility: https://fritz.freiburg.de/asw/asw.exe?aw=Verkehr%5CJB_VERKEHR_FAHRRADVERKEHR
-unit: '1'
