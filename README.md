@@ -21,7 +21,7 @@ Ebenso ein Dank an Mike Bostock:
 
 Impressum Sebastian Müller: https://sbamueller.wordpress.com/kontakt-contact/
 
-Ich habe die Daten für Freiburg eingefügt und andere Hintergrundbilder verwendet. Nico Tribukait hat dankbarerweise sein Webspace zur Verfügung gestellt und Andre Eberle das ganze installiert.
+Ich habe die Daten für Freiburg eingefügt und andere Hintergrundbilder verwendet. Nico Tribukait https://github.com/Nio-av hat dankbarerweise sein Webspace zur Verfügung gestellt und Andre Eberle https://www.xing.com/profile/Andre_Eberle6 das ganze installiert.
 
 Das Projekt des WDR ist hier zu finden: https://github.com/wdr-data/you-draw-it und die Umsetzung: https://data.wdr.de/wdr/nachrichten/landespolitik/landtagswahl/was-schaetzen-sie/
 
