@@ -5,19 +5,18 @@ result: >
         [Jahrbuch Wirtschaft & Tourismus: Beherbergungsgewerbe in Freiburg | **mehr**](https://fritz.freiburg.de/asw/asw.exe?aw=Wirtschaft/Gesamtstadt_Tourismus_Beherbergungsgewerbe_ab_2004)
 
 data:
-  2004: 958.841
-  2005: 965.580
-  2006: 987.136
-  2007: 1.124.019
-  2008: 1.218.084
-  2009: 1.254.520
-  2010: 1.289.891
-  2011: 1.380.658
-  2012: 1.404.784
-  2013: 1.387.635
-  2014: 1.357.965
-  2015: 1.448.470
-  2016: 1.438.319
+  2004: 958841
+  2005: 965580
+  2006: 987136
+  2007: 1124019
+  2008: 1218084
+  2009: 1254520
+  2010: 1289891
+  2011: 1380658
+  2012: 1404784
+  2013: 1387635
+  2014: 1357965
+  2015: 1448470
+  2016: 1438319
 accessibility: https://fritz.freiburg.de/asw/asw.exe?aw=Wirtschaft/Gesamtstadt_Tourismus_Beherbergungsgewerbe_ab_2004
-unit: Übernachtungen
-precision: 2
+
