@@ -1,0 +1,26 @@
+heading: Beschäftigung 2002 - 2015
+subheading: Wie hat sich die Anzahl der sozialversicherungspflichtig Beschäftigten in Freiburg entwickelt?
+result: >
+        **Im Jahr 2002 gabe es in Freiburg 96.398 sozialversicherungspflichtige Beschäftigte, im Jahr 2015 warem es 119.300** Quelle: FWTM Freiburg und Stadtkämmerei, Stand: Oktober 2016
+
+        
+
+data:
+  2002: 96398
+  2003: 95159
+  2004: 93898
+  2005: 94562
+  2006: 96036
+  2007: 98374
+  2008: 100570
+  2009: 101513
+  2010: 103877
+  2011: 106969
+  2012: 110219
+  2013: 112167
+  2014: 114602
+  2015: 119300
+  
+accessibility: 
+unit:
+precision:
