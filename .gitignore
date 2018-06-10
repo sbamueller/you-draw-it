@@ -3,7 +3,7 @@ bower_components/
 
 data_raw/
 .tmp/
-build/
+
 
 *.zip
 

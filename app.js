@@ -28,9 +28,9 @@
             const minYear = data[0].year;
             const maxYear = data[data.length - 1].year;
             const periods = [
-                {year: 2010, class: 'black', title: "Amtszeit\nJürgen Rüttgers"},
-                {year: 2012, class: 'red', title: "I. Amtszeit\nHannelore Kraft"},
-                {year: Math.min(2017, maxYear), class: 'red', title: "II. Amtszeit\nHannelore Kraft"}
+                {year: 2002, class: 'black', title: ""},
+                {year: 2010, class: 'red', title: "I. Amtszeit\nDieter Salomon"},
+                {year: Math.min(2018, maxYear), class: 'red', title: "II. Amtszeit\nDieter Salomon"}
             ];
             const medianYear = periods[periods.length - 2].year;
             const minY = d3.min(data, d => d.value);
