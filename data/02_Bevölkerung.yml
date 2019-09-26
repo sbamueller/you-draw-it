@@ -1,27 +1,60 @@
-heading: Bevölkerung in Freiburg 2002-2018
-subheading: Wie hat sich die Zahl der Menschen die in Freiburg leben, entwickelt?
+heading: Opfer von Terroranschlägen in Westeuropa
+subheading: Wie hat sich die Zahl der durch Terrorakte in Europa getötten Menschen, entwickelt?
 result: >
-        **Die Zahl der Menschen in Freiburg, steigt seit 2002 stetig an.** Am 31. Dezember 2002 lebten 210.234 Personen in Freiburg, am 1.2.2018 lebeten 225.610 Personen in Freiburg.
+        Europa wurde von 1970 bis Mitte der 90er-Jahre wiederholt von Terrorwellen heimgesucht. Aktuell gilt in einigen EU-Staaten wieder erhöhte Terrorgefahr. Doch das subjektive Gefühl täuscht, dass der Terror in Europa mehr Tote als früher fordert.
 
-        [Einwohnerentwicklung von Freiburg im Breisgau | **mehr**](https://de.wikipedia.org/wiki/Einwohnerentwicklung_von_Freiburg_im_Breisgau)
+        [Die vergessenen Jahre des Terrors: | **mehr**](https://www.watson.ch/wissen/schweiz/982459207-terror-in-europa-und-der-schweiz-seit-1970-diese-fakten-sollte-man-kennen)
 
 data:
-  2002:       210.234
-  2003:       212.495
-  2004:       213.998
-  2005:       215.966
-  2006:       217.548
-  2007:	219.430
-  2008:	219.665
-  2009:	221.924
-  2010:	224.191
-  2011:	214.234 
-  2012:	218.043
-  2013:	220.286
-  2014:	222.203 
-  2015:	226.393
-  2016:       227.590
-  2017:       227.972
+       1970: 78  
+       1971: 112  
+       1972: 405  
+       1973: 295  
+       1974: 411  
+       1975: 299  
+       1976: 324  
+       1977: 195  
+       1978: 231  
+       1979: 301  
+       1980: 418  
+       1981: 177  
+       1982: 178  
+       1983: 162  
+       1984: 175  
+       1985: 261  
+       1986: 165  
+       1987: 188  
+       1988: 440  
+       1989: 119  
+       1990: 120  
+       1991: 170  
+       1992: 179  
+       1993: 147  
+       1994: 105  
+       1995: 68  
+       1996: 43  
+       1997: 40  
+       1998: 54  
+       1999: 12  
+       2000: 42  
+       2001: 40  
+       2002: 9  
+       2003: 5  
+       2004: 196  
+       2005: 60  
+       2006: 6  
+       2007: 17  
+       2008: 3  
+       2009: 15  
+       2010: 5  
+       2011: 81  
+       2012: 10  
+       2013: 6  
+       2014: 5  
+       2015: 175  
+       2016: 142  
+       2017: 32  
 
-accessibility: https://de.wikipedia.org/wiki/Einwohnerentwicklung_von_Freiburg_im_Breisgau
+
+accessibility: https://www.watson.ch/wissen/schweiz/982459207-terror-in-europa-und-der-schweiz-seit-1970-diese-fakten-sollte-man-kennen
 unit: 
