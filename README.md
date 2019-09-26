@@ -1,11 +1,11 @@
-# Was schätzen Sie: Wie hat sich Freiburg während der Amtszeit von Dieter Salomon verändert?
+# Freiburg Crime - Wie hat sich die Kriminalitätsbelastung in Freiburg verändert?
 
 ## Über das Projekt:
-Dieter Salomon wurde als Oberbürgermeister von Freiburg abgewählt. Einmal Grund zum Ende seiner Amtszeit in ein paar Statistiken zu schauen um zu sehen wie sich Freiburg verändert hat.?
+Die gefühlte zunehmende Kriminalitätsbelastung in Freiburg und Deutschland erhitzt immer mal wieder die Gemüter. Dieser Datenjournalismusbeitrag, will einen Beitrag zur Debatte leisten und Nutzenden über die Entwicklung anhand, der der Polizei bekannt gewordenen Fälle aufklären. Dazu werden unterschiedliche Datenquellen genutzt. 
 
 Die Nutzer werden gebeten, die Linie zu Ende zu zeichnen. Ein Klick auf den Button unter der Grafik verrät, ob der Nutzer richtig lag.
 
-Verlinkt sind alle zu Grunde liegenden Daten auch als barrierefreie Tabelle erreichbar.
+Verlinkt sind alle zu Grunde liegenden Daten, auch als barrierefreie Tabelle.
 
 ## Credits
 
