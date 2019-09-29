@@ -1,12 +1,12 @@
-heading: Tötungstaten absolut 1974 - 2016
-subheading: Wie hat sich der Anteil Tötungsdelikte, also von Mord und Totschlag, in absoluten Zahlen in den Jahren 1974 - 2016 entwickelt? 
+heading: Tötungstaten in Freiburg absolut 1974 - 2016
+subheading: Wie hat sich der Anteil Tötungsdelikte in Freiburg, also von Mord und Totschlag, in absoluten Zahlen in den Jahren 1974 - 2016 entwickelt? 
         **Auch die Anzahl der Tötungsdelikte, nicht bezogen auf 100.000 Einwohner, schwankt um den Mittelwert sieben.** Hier wird auch in absoluten Zahlen deutlich, das es zwar Schwankungen gibt, aber keine dramatische Entwicklung. 
         
         [Fritz Statistik Informationsystem der Stadt Freiburg, Kriminalität | **mehr**](https://fritz.freiburg.de/asw/asw.exe?aw=Recht/JB_Straftaten)
 
 data:
   
-        1974: 12
+       1974: 12
        1975: 3
        1976: 6
        1977: 8
